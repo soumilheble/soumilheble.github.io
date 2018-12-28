@@ -23,7 +23,7 @@ description: Online Portfolio & Blog
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
+  Home: ""
   About Me: "aboutme"
   Blog: "blog"
   Resume: "resume"
