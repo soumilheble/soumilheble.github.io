@@ -24,11 +24,8 @@ description: Online Portfolio & Blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Blog: "blog"
+  Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,14 +39,15 @@ avatar: "/img/headshot3.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#f2f2f2"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#f2f2f2"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+bdytxt-col: "#404040"
+link-col: "#890000"
+hover-col: "#890000"
+footer-col: "#f2f2f2"
+footer-text-col: "#404040"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -71,35 +69,39 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  linkedin: soumilheble
+  gitlab: soumilheble
   email: "soumil.heble@gmail.com"
-# facebook: daattali
-  github: daattali
-  twitter: daattali
+  medium: soumilheble
+  telephone: +19199850666
+  github: soumilheble
+#  rss: false
+#  facebook: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-# facebook: true
-  google: false
-  linkedin: true
+  linkedin: false
+  gitlab: true
+  email: false
+  medium: true
+  telephone: false
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -156,7 +158,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Eastern"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

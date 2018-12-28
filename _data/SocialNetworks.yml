@@ -10,6 +10,16 @@ facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
+  
+gitlab:
+  name: "GitLab"
+  baseURL: "https://gitlab.com/"
+  icon: "fa-gitlab"
+  
+medium:
+  name: "Medium"
+  baseURL: "https://medium.com/@"
+  icon: "fa-medium"
 
 github:
   name: "GitHub"
