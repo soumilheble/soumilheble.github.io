@@ -4,3 +4,27 @@ title: Who Am I?
 subtitle: A Tech Geek Exploring the Field of Computer Architecture and ASICs.
 permalink: aboutme
 ---
+
+> "Jack of a few trades, Master in Computer Engineering" - Soumil Krishnanand Heble
+
+# Draft
+### History 
+I was born in the year 1994 on May 2nd in the city of Mumbai (then Bombay). I was preschooled in Mumbai, Kindergarten at Sanskardham Nursery, Vapi and 1st to 12th Grade education at Smt. Sandraben Shroff Gnyan Dham School, Vapi.
+
+As most kids, I was inquisitive at a young age, my father, a chemical engineer and a business man by profession always answered my questions be it How refrigerators work?, How are Plastics Made? etc. This was instrumental in deciding my future in science and egnineering.
+
+During my school time I played football (soccer) and cricket but as time went by I switched to badminton. I also took part in Isshinryu Karate and I am a Brown III Belt Holder. My inquisitve nature made me take part in a lot of quiz events in school and I even represented my school and won several inter-school quizzing events. Quiz and Sports taught me the importance of team work. Sports naturally and Quiz because in a quiz team of two each of us was good at specific topics and it was easy for us to pick up new things in those topics.
+
+My school, parents and my uncle played an important part in steering my career towards computer engineering. My uncle, an opthalmologist by profession, used computer for his work. Whenever we visited our grandparents home, my elder brother and me used my uncle's PC to play games like Dave, NFS II SE, miniclip games online and at that time little did I know the true potential of internet and computers. My school was on of the few during the time to introduce computers to lower grade classes. We were taught Microsoft Word, Microsoft Office, Logo, MS Paint, MS Access, Macromedia Flash, HTML and C++. I still remember the scoulding from my Computer teacher beacuse I veered off from the course and made short cartoon videos in flash. Computer was first brought into my home in the year 2001 and I stil remember the funky sound of dialup modem connecting to the internet and the pain of using 56kbps connection provided by BSNL (Government Telecommunications Provider in India) that required us to purchase a token for internet time and the phone calls were blocked during the period.
+
+#### My Move Towards Electronics
+
+I'm drawn towards activities that have tangible effects. This probably stemmed from my habit of taking apart electronics appliances and gadgets in my home as a kid (from 8th Grade) and my father's motto of knowing how to fix things by yourself. He still has his own toolset and fixes any minor electrical/mechanical repairs in our home. My father paid INR 300 a computer technician when anything went wrong and his only suggestion was to format the PC, so I learnt how to format a PC and also the in's and out's of PC hardware. When my home computer was purchased it has 256 MB Ram, Intel Pentium 4 Processor and ran Windows 98. In grade 9 (Year 2009), It became sluggish and the hardware requirements didn't comply to support the legendary Windows XP OS and it was a time to upgrade the PC. I proposed my father that instead of purchasing a prebuilt PC or hiring a technician lend me the money to assemble a PC. I was able to put together an Intel Core 2 Duo system with a 1 GB DDR2 RAM with Windows XP by that year Internet scene in India had also progressed and BSNL started providing 1 Mbps ADSL modem with simultaneous telephone usage.
+
+I was introduced to electronics, theoretically in the 10th grade but my practical experience in electronics emerged because of a necessity. In India during the year 2009 bicycles with brake, turning and head lights became popular among school kids but they were expensive and I already had a pretty good bicycle. So instead of pressurizing my father to buy me a new bicycle I set out on a quest to make myself a bicycle light set and thanks to my habit of taking apart things, fathers tool set and spending hours at bicycle fixing shops I became adept in taking apart and putting together my bicycle. By the power of internet and a local electronics store and a bicycle store I was able to whip up my own bicycle light set powered by a dynamo that used a 555 timer, a few buttons and aluminium foil contacts for brake detection (It wasn't until the first year into my college that I completely understood how a 555 timer worked).
+
+Something happens in your brain when you build something by yourself and look at it work. This excitement guided me to build my second electronic project in 10th grade of a single transistor FM bug. I did not know then, how transistors worked but I studied those things on the internet and talkingelectronics.com was my goto website for small electonics projects.
+
+So this was a brief history of what made me inclined towards pursuing electonics engineering during my bachelor's degree. In the year 2012 I was admitted in the Bachelors program in Electronics and Instrumenation Engineering at the prestigious Vellore Institute of Technology, India. I graduated in the year 2016 with a CGPA of 9.23/10.00, ranked 9th in a class of 93.
+
+#### College Years and My Move Towards Computer Architecture and Embedded Systems
