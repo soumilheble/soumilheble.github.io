@@ -71,11 +71,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   linkedin: soumilheble
-  gitlab: soumilheble
+  github: soumilheble
   email: "soumil.heble@gmail.com"
   medium: soumilheble
   telephone: +19199850666
-  github: soumilheble
+#  gitlab: soumilheble
 #  rss: false
 #  facebook: daattali
 #  twitter: daattali
